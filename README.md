@@ -1,2 +1,2 @@
 # stock-predict
- PCA
+Project for Artificial Intelligence and Data Analytics, taught by Prof. Tushar Jaruhar, Ashoka University.
